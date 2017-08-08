@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public int[] twoSum(int[] nums, int target) {\r\n           for (int i = 0; i < nums.length - 1; ++i)\r\n            for (int j = i + 1; j < nums.length; ++j)\r\n\r\n                if (nums[i] + nums[j] == target)\r\n                    return new int[]{i, j};\r\n\r\n\r\n        return null;\r\n    }\r\n    \r\n}"}

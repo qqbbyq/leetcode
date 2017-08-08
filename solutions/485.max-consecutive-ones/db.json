@@ -1,0 +1,1 @@
+{"java":"public class Solution {\r\n    public static int findMaxConsecutiveOnes(int[] nums) {\r\n    int max = 0;\r\n    int step = 0;\r\n    for (int num : nums) {\r\n      if (num == 0) {\r\n        step = 0;\r\n      } else {\r\n        step = step + 1;\r\n        max = Math.max(max, step);\r\n      }\r\n    }\r\n    return max;\r\n  }\r\n  \r\n}"}
