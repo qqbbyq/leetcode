@@ -3,9 +3,9 @@ This is my leetcode solution folder.
 
 Language: java
 
-Last updated: 2017-06-21
+Last updated: 2017-08-09
 
-I've solved 56/551 problems (101 problems for a fee).
+I've solved 57/581 problems (110 problems for a fee).
 
 The source code was fetched using the tool [leetcode-spider](https://github.com/Ma63d/leetcode-spider).
 
@@ -14,6 +14,7 @@ The source code was fetched using the tool [leetcode-spider](https://github.com/
 |001|[two-sum](https://leetcode.com/problems/two-sum/)| [java](./001.two-sum/two-sum.java)| Easy|
 |002|[add-two-numbers](https://leetcode.com/problems/add-two-numbers/)| [java](./002.add-two-numbers/add-two-numbers.java)| Medium|
 |003|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [java](./003.longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.java)| Medium|
+|007|[reverse-integer](https://leetcode.com/problems/reverse-integer/)| [java](./007.reverse-integer/reverse-integer.java)| Easy|
 |008|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/)| [java](./008.string-to-integer-atoi/string-to-integer-atoi.java)| Medium|
 |019|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](./019.remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.java)| Medium|
 |021|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./021.merge-two-sorted-lists/merge-two-sorted-lists.java)| Easy|

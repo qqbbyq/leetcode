@@ -1,0 +1,1 @@
+{"java":"public class Solution {\n    public int reverse(int x) {\n        long result = 0 ;\n        while (x != 0) {\n            result = result * 10 + (x % 10);\n            x = x / 10;\n            if(result > Integer.MAX_VALUE || result < Integer.MIN_VALUE)\n                return 0;\n        }\n        return (int)result;\n        \n    }\n}"}
